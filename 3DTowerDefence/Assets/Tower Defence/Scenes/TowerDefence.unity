@@ -3211,7 +3211,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &475463879
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3715,7 +3715,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 476809d93cdf9434489fbf91ff5ee5a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  money: 100
+  money: 20
   baseHealth: 100
 --- !u!4 &513982307
 Transform:
@@ -6026,8 +6026,8 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 0
-  orthographic size: 5
-  m_Depth: -1
+  orthographic size: 6.61
+  m_Depth: 2.17
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -6049,13 +6049,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.29007652, y: 0.40978992, z: -0.13926737, w: 0.85354114}
-  m_LocalPosition: {x: -13.64, y: 8.92, z: -11.33}
+  m_LocalRotation: {x: 0.27059805, y: 0.6532815, z: -0.27059805, w: 0.6532815}
+  m_LocalPosition: {x: -13.78, y: 9.52, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 37.541, y: 51.292004, z: 0}
+  m_LocalEulerAnglesHint: {x: 45, y: 90, z: 0}
 --- !u!1001 &965193271
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -19,6 +19,7 @@ namespace TowerDefence.Managers
         void Start()
         {
             player = Player.instance;
+            Cursor.visible = true;
         }
         void Update()
         {
